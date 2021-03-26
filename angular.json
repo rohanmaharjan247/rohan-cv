@@ -50,7 +50,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/styles/main.scss",
+              "src/styles/prints.scss",
+              "src/styles/site.scss",
+              "src/styles/bootstrap/bootstrap.min.css",
+              "src/styles/font-awesome/css/all.min.css"
             ],
             "scripts": []
           },
